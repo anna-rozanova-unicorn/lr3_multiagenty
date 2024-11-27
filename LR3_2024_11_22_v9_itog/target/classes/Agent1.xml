@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfg>
+    <neighbours>
+        <entry>
+            <key>Agent2</key>
+            <value>24</value>
+        </entry>
+        <entry>
+            <key>Agent3</key>
+            <value>2</value>
+        </entry>
+        <entry>
+            <key>Agent4</key>
+            <value>18</value>
+        </entry>
+        <entry>
+            <key>Agent5</key>
+            <value>24</value>
+        </entry>
+    </neighbours>
+    <start>true</start>
+    <findNodeName>Agent12</findNodeName>
+</cfg>

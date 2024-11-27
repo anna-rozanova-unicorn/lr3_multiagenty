@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfg>
+    <neighbours>
+        <entry>
+            <key>Agent1</key>
+            <value>24</value>
+        </entry>
+        <entry>
+            <key>Agent2</key>
+            <value>16</value>
+        </entry>
+        <entry>
+            <key>Agent3</key>
+            <value>20</value>
+        </entry>
+        <entry>
+            <key>Agent4</key>
+            <value>26</value>
+        </entry>
+        <entry>
+            <key>Agent6</key>
+            <value>7</value>
+        </entry>
+        <entry>
+            <key>Agent7</key>
+            <value>9</value>
+        </entry>
+        <entry>
+            <key>Agent8</key>
+            <value>13</value>
+        </entry>
+    </neighbours>
+</cfg>

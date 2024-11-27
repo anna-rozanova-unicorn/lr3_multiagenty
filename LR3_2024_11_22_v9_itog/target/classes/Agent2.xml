@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfg>
+    <neighbours>
+        <entry>
+            <key>Agent1</key>
+            <value>24</value>
+        </entry>
+        <entry>
+            <key>Agent3</key>
+            <value>21</value>
+        </entry>
+        <entry>
+            <key>Agent4</key>
+            <value>27</value>
+        </entry>
+        <entry>
+            <key>Agent5</key>
+            <value>16</value>
+        </entry>
+    </neighbours>
+</cfg>
